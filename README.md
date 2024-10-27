@@ -12,9 +12,9 @@ Niveau 1 : Mains Ardentes
 / Niveau 5 : Protection contre l'Acide
 / Niveau 6 : Chaîne d'Eclairs, Sort de Mort, Lâché d'Energie
 / Niveau 7 : Purification d'Aura, Camouflage Parfait, Mot de Pouvoir : Étourdissement, Rayon Rubis d'Inversion
-- Au niveau 13, gagne 40% de résistance aux dégâts magiques.
-- Au niveau 15, gagne la capacité innée "Contact de la Nature" utilisable une fois par jour (Le maître de l'Aura régénère 4 points de vie par round pendant un tour).
-- Au niveau 22, gagne la capacité innée "Aura d'Invulnérabilité" utilisable une fois par jour ( Immunise contre les sorts du premier au quatrième niveau et accorde +6 à la Classe d'Armure et +40% de résistance aux dégâts physiques pendant 12 rounds.
+- Au niveau 13, +40% de résistance aux dégâts magiques.
+- Au niveau 15, capacité "Contact de la Nature" une fois par jour (régénèration de 4 points de vie par round pendant un tour).
+- Au niveau 22, capacité "Aura d'Invulnérabilité" une fois par jour (immunise contre les sorts du premier au quatrième niveau et accorde +6 à la Classe d'Armure et +40% de résistance aux dégâts physiques pendant 12 rounds.
 
 -Inconvénients :
 
