@@ -1,0 +1,113 @@
+BACKUP ~AMDK/backup~
+AUTHOR ~sikret_the_great@yahoo.com~
+ALWAYS
+	ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+		INCLUDE ~AMDK/fl#add_kit_ee.tpa~
+		ACTION_DEFINE_ARRAY ch_reload BEGIN
+		~Setup.tra~
+		END
+		ACTION_DEFINE_ARRAY ch_noconvert BEGIN END
+			LAF HANDLE_CHARSETS
+			INT_VAR
+			infer_charset = 1
+			STR_VAR
+			tra_path = EVAL ~%MOD_FOLDER%/Languages~
+			noconvert_array = ch_noconvert
+			reload_array = ch_reload
+		END
+	END
+END
+
+LANGUAGE ~English~
+         ~english~
+         ~AMDK/Languages/english/setup.tra~
+LANGUAGE ~Spanish (translated by Clan REO, Riojano2002 and Sarevok)~
+         "spanish"
+         ~AMDK/Languages/english/setup.tra~
+         ~AMDK/Languages/spanish/setup.tra~
+LANGUAGE ~Czech (translated by Neferit and Pan Baca)~
+         "czech"
+         ~AMDK/Languages/english/setup.tra~
+         ~AMDK/Languages/czech/setup.tra~
+LANGUAGE ~Polish (translated by Nugrud)~
+         "polish"
+         ~AMDK/Languages/english/setup.tra~
+         ~AMDK/Languages/polish/setup.tra~
+         
+LANGUAGE ~French (translated by graoumf)~
+         "french"
+         ~AMDK/Languages/english/setup.tra~
+         ~AMDK/Languages/french/setup.tra~
+      
+
+BEGIN @0
+
+REQUIRE_FILE ~Data/25Dialog.bif~ @8 // ~Please install TOB and return.~
+
+ADD_KIT ~AURAMASTER~
+//weapons
+~AURAMASTER 1 0 1 1 0 0 0 1~ //CLASWEAP
+~AURAMASTER 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
+~AURAMASTER 0 0 0 12 12 15~
+~AURAMASTER -4 0 -4 0 0 0~  //Stat modifiers ABCLSMOD.2DA
+~AURAMASTER 0 0 0 12 12 15~ //ABDCDSRQ.2DA Useless. For dualclassing into a kit.
+~AURAMASTER 0 0 0 12 12 15~ //Dual Class into some other class
+//alingments
+~AURAMASTER 0 0 0 0 1 0 0 0 0~ // L_G L_N L_E N_G N_N N_E C_G C_N C_E
+// dualcass
+~AURAMASTER 0 0 0 0 0 0~
+// 2da
+~AMDK/AMDK.2Da~
+//Race and class
+~K_D_H K_D_HE~
+// Item restrictions and class
+~0x10000000 11~
+// high level abilities
+~Dr0~
+//equipment
+~* * HELM19 BAG27 RING06 RING31 CLCK02 BOOT01 AMUL21 BRAC15 BELT10 * * * POTN52,5 POTN4,2 POTN14,5 HAMM07 SW1H27 STAF08~
+//description
+SAY @1
+SAY @2
+SAY @3
+
+ ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+	LAF fl#add_kit_ee STR_VAR kit_name = AURAMASTER  END
+END
+
+//spells
+COPY ~AMDK\Spells\SPCLAD1.spl~ ~override/SPCLAD1.spl~
+COPY ~AMDK\Spells\SPCLAD2.spl~ ~override/SPCLAD2.spl~
+SAY NAME1 @9
+COPY ~AMDK\Spells\SPINAD2.spl~ ~override/SPINAD2.spl~
+SAY NAME1 @10
+COPY ~AMDK\Spells\SPPRA11.spl~ ~override/SPPRA11.spl~
+COPY ~AMDK\Spells\SPPRA21.spl~ ~override/SPPRA21.spl~
+COPY ~AMDK\Spells\SPPRA22.spl~ ~override/SPPRA22.spl~
+COPY ~AMDK\Spells\SPPRA31.spl~ ~override/SPPRA31.spl~
+COPY ~AMDK\Spells\SPPRA32.spl~ ~override/SPPRA32.spl~
+COPY ~AMDK\Spells\SPPRA41.spl~ ~override/SPPRA41.spl~
+COPY ~AMDK\Spells\SPPRA42.spl~ ~override/SPPRA42.spl~
+COPY ~AMDK\Spells\SPPRA43.spl~ ~override/SPPRA43.spl~
+COPY ~AMDK\Spells\SPPRA51.spl~ ~override/SPPRA51.spl~
+COPY ~AMDK\Spells\SPPRA61.spl~ ~override/SPPRA61.spl~
+COPY ~AMDK\Spells\SPPRA62.spl~ ~override/SPPRA62.spl~
+COPY ~AMDK\Spells\SPPRA63.spl~ ~override/SPPRA63.spl~
+SAY NAME1 @4
+SAY UNIDENTIFIED_DESC @5
+COPY ~AMDK\Spells\SPPRA71.spl~ ~override/SPPRA71.spl~
+SAY NAME1 @6
+SAY UNIDENTIFIED_DESC @7
+COPY ~AMDK\Spells\SPPRA72.spl~ ~override/SPPRA72.spl~
+SAY NAME1 @12
+SAY UNIDENTIFIED_DESC @13
+COPY ~AMDK\Spells\SPPRA73.spl~ ~override/SPPRA73.spl~
+COPY ~AMDK\Spells\SPPRA74.spl~ ~override/SPPRA74.spl~
+COPY ~AMDK\Spells\SPINAD1.spl~ ~override/SPINAD1.spl~
+SAY NAME1 @11
+//bams
+COPY ~AMDK\Bams\SPPRA63B.bam~ ~override/SPPRA63B.bam~
+COPY ~AMDK\Bams\SPPRA63C.bam~ ~override/SPPRA63C.bam~
+
+ 
+AT_INTERACTIVE_EXIT ~notepad AMDK\Auramaster_druid_kit_README.txt~

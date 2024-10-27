@@ -1,0 +1,91 @@
+@0 = ~Kit de druida Señor de las Auras~
+@1 = ~SEÑOR DE LAS AURAS~
+@2 = ~Señor de las Auras~
+@3 = ~SEÑOR DE LAS AURAS: Este tipo de druidas tienen una habilidad especial para usar el aura mágica y la energía que brotan de la naturaleza, y gracias a ella pueden utilizar sus conjuros mas rápida y frecuentemente que los lanzadores de conjuros normales. También pueden lanzar conjuros que están fuera del alcance de otros druidas. En niveles bajos, los conjuros adicionales serán simples duplicados de conjuros de mago, pero en niveles altos puede lanzar varios conjuros completamente nuevos.
+
+VENTAJAS:
+
+1- Bonificación de +2 a la velocidad de lanzamiento de conjuros
+2- Inmunidad al silencio
+3- Puede memorizar un conjuro adicional por nivel
+4- Acceso a diversos conjuros, tal y como se indica:
+
+Conjuro adicional de primer nivel: Manos ardientes
+Conjuros adicionales de segundo nivel: Invisibilidad, Imagen espejada
+Conjuros adicionales de tercer nivel: Flecha ígnea, Invisibilidad en un radio de 3 metros
+Conjuros adicionales de cuarto nivel: Emoción, Escudo de fuego (Rojo), Malison mayor
+Conjuros adicionales de quinto nivel: Protección contra el ácido
+Conjuros adicionales de sexto nivel: Relámpago zigzagueante, Conjuro de muerte, Desencadenar energía
+Conjuros adicionales de séptimo nivel: Limpieza de aura, Camuflaje perfecto, Palabra de poder: atontar, Rayo rubí de inversión
+
+5- En el nivel 13 gana una resistencia del 40% al daño mágico
+6- En el nivel 15 gana la aptitud innata "Contactar con la naturaleza", que puede ser usada una vez al día para regenerar 24 pg por asalto durante 10 asaltos
+7- En el nivel 22 gana la aptitud innata de Aura de invulnerabilidad, una versión mejorada del Globo de invulnerabilidad que le protege de conjuros de nivel 4 o inferior y actúa como un escudo de energía, absorbiendo el 40% del daño físico y concediendo un bonificador de +6 a la CA durante 12 asaltos. Esta habilidad sólo puede usarse una vez al día. 
+
+DESVENTAJAS:
+
+1- No puede llevar armadura
+2- No puede cambiar de forma
+3- Penalización de -4 a la Fuerza
+4- Penalización de -4 a la Constitución
+5- Requiere una puntuación de 12 en Inteligencia
+6- No puede dualizarse
+7- No gana las siguientes aptitudes habituales del druida: inmunidad al veneno (nivel 15) y resistencia parcial a los elementos (nivel 18).
+
+Descripciones de los nuevos conjuros:
+
+Desencadenar energía
+Nivel: 6
+Escuela: Evocación
+Tiempo de lanzamiento: 6
+Area de efecto: un blanco
+Alcance: 100
+Tiro de salvación: no
+
+Este poderoso conjuro desencadena un excepcional estallido de energía que causa 10d8 puntos de daño mágico a un único objetivo.
+
+Limpieza de aura:
+Igual a la habilidad de alto nivel de mago Presteza mejorada.
+
+Camuflaje perfecto (Abjuración)
+Nivel: 7
+Alcance: 0
+Duración: 20 asaltos
+Tiempo de lanzamiento: 5
+Área de efecto: especial
+Tiro de salvación: ninguno
+
+Este poderoso conjuro vuelve al maestro de las auras invisible e inmune a todos los conjuros de adivinación. Si el druida ataca o lanza conjuros ofensivos mientras dura el conjuro se volverá parcialmente visible y podrá ser atacado físicamente, pero no podrán lanzarse conjuros sobre él. Nótese que el conjuro no hace al druida inmune a los conjuros que afecten a un área y no a una criatura. Al poder lanzar conjuros más rápido que otros druidas, el tiempo de lanzamiento real de los maestros de las auras será de 3 para este conjuro.~
+@4 = ~Desencadenar energía~
+@5 = ~Desencadenar energía
+Nivel: 6
+Escuela: Evocación
+Tiempo de lanzamiento: 6
+Area de efecto: un blanco
+Alcance: 100
+Tiro de salvación: no
+
+Este poderoso conjuro desencadena un excepcional estallido de energía que causa 10d8 puntos de daño mágico a un único objetivo.~
+@6 = ~Limpieza de aura~
+@7 = ~Limpieza de aura
+Nivel: 7
+Alcance: ilimitado
+Duración: 2 asaltos
+Tiempo de lanzamiento: 7
+Área de efecto: especial
+
+En esencia, Limpieza de aura elimina la pausa existente entre el lanzamiento de conjuros. Cuando se ejecuta, el druida puede empezar a lanzar un nuevo sortilegio justo después de haber ejecutado su actual conjuro. El efecto dura 2 asaltos.~
+@8 = ~Por favor, instala Throne of Bhaal y vuelve a intentarlo.~
+@9 = ~Resistencia al daño mágico~
+@10 = ~Contactar con la naturaleza~
+@11 = ~Aura de invulnerabilidad~
+@12 = ~Camuflaje perfecto~
+@13 = ~Camuflaje perfecto (Abjuración)
+Nivel: 7
+Alcance: 0
+Duración: 20 asaltos
+Tiempo de lanzamiento: 5
+Área de efecto: especial
+Tiro de salvación: ninguno
+
+Este poderoso conjuro vuelve al maestro de las auras invisible e inmune a todos los conjuros de adivinación. Si el druida ataca o lanza conjuros ofensivos mientras dura el conjuro se volverá parcialmente visible y podrá ser atacado físicamente, pero no podrán lanzarse conjuros sobre él. Nótese que el conjuro no hace al druida inmune a los conjuros que afecten a un área y no a una criatura. Al poder lanzar conjuros más rápido que otros druidas, el tiempo de lanzamiento real de los maestros de las auras será de 3 para este conjuro.~

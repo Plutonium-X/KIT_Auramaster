@@ -1,0 +1,90 @@
+@0 = ~Podklasa druida Mistrz Aury~
+@1 = ~MISTRZ AURY~
+@2 = ~Mistrz Aury~
+@3 = ~MISTRZ AURY: Ci druidzi panuj¹ nad magi¹ aury oraz rozproszon¹ energi¹ natury rzucaj¹c zaklêcia szybciej i czêœciej ni¿ wiêkszoœæ czaruj¹cych. Ponadto umiej¹ rzucaæ czary nie dostêpne innym druidom. Na ni¿szych poziomach s¹ to zwyk³e odpowiedniki kilku czarów kap³añskich jak i magów, lecz w miarê zdobywania doœwiadczenia bêd¹ to ju¿ unikatowe zaklêcia.
+
+Zalety:
+1- +2 do prêdkoœci rzucania czaru
+2- Odpornoœæ na Ciszê
+3- Mo¿e zapamiêtaæ jeden dodatkowy czar na poziom rzucania
+4- Dostêp do nastêpuj¹cych dodatkowych czarów:
+
+Dodatkowy czar pierwszego poziomu: P³on¹ce d³onie
+Dodatkowe czary drugiego poziomu: Niewidzialnoœæ, Lustrzane odbicie
+Dodatkowe czary trzeciego poziomu: Ognista strza³a, Niewidzialnoœæ - promieñ 3 metry
+Dodatkowe czary czwartego poziomu: Emocje, Ognista tarcza (czerwona), Wielkie os³abienie
+Dodatkowe czary pi¹tego poziomu: Ochrona przed kwasem
+Dodatkowe czary szóstego poziomu: Wy³adowanie ³añcuchowe, Zaklêcie œmierci, Wyzwolenie energii
+Dodatkowe czary siódmego poziomu: Oczyszczenie Aury, Doskona³y kamufla¿, S³owo mocy: og³uszenie, Rubinowy promieñ odwrócenia
+
+5- Na 13. poziomie uzyskuje 40% odpornoœci na obra¿enia magiczne.
+6- Na 15. poziomie uzyskuje wrodzon¹ zdolnoœæ "Kontak z Natur¹", która mo¿e byæ u¿yta raz dziennie w celu zregenerowania 24 punktów ¿ycia na rundê przez 1 tury.
+7- Na 22. poziomie uzyskuje wrodzona zdolnosc, Aure niewrazliwosci, dajacej ochrone przed czarami do czwartego poziomu (wlacznie) zaklec maga. Ponadto Aura ta sluzy jako energetyczna tarcza, absorbujaca 40% wszystkich fizycznych obrazen oraz poprawiajac KP o +6 punktów na 12 rund. Zdolnosc ta moze byc uzyta raz dziennie.
+
+Wady:
+1- Nie mo¿e nosiæ ¯ADNEJ zbroi
+2- Nie mo¿e zmieniaæ swojej postaci
+3- Otrzymuje -4 punktów kary do Si³y
+4- Otrzymuje -4 punktów kary do Kondycji
+5- Wymaga Inteligencji minimum 12
+6- Nie mo¿e dwuklasowaæ
+7- Nie zyskuje druidycznej niewra¿liwoœci na truciznê (na poziomie 15) i czêœciowej odpornoœci na obra¿enia pochodz¹ce z otoczenia (na poziomie 18)
+
+Opisy nowych czarów:
+
+Wyzwolenie energii:
+Poziom: 6
+Zasiêg: 30 metrów
+Szko³a: Wywo³ywanie
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Ten potê¿ny czar wyzwala niesamowity ³adunek energii zadaj¹cej pojedynczemu celowi 10k8 magicznych obra¿eñ.
+
+Oczyszczenie Aury:
+
+To samo co zdolnoœæ klasowa wysokiego poziomu maga, Akceleracja.
+
+Doskona³y kamufla¿ (Odrzucanie)
+Poziom: 7
+Zasiêg: 0
+Czas dzia³ania: 20 rund
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Objêty tym czarem Mistrz Aury staje siê niewidzialny i niepodatny na wszystkie czary wykrywaj¹ce iluzjê przez ca³y czas dzia³ania zaklêcia. Jeœli w trakcie dzia³ania Doskona³ego kamufla¿u druid zaatakuje lub rzuci czar ofensywny stanie siê czêœciowo widoczny i samemu mo¿e staæ siê celem ataku przeciwnika, lecz ¿aden czar nie mo¿e zostaæ rzucony bezpoœrednio na niego. Zwróæ uwagê na to, i¿ czar ten nie czyni rzucaj¹cego odpornym na obszarowe zaklêcia jak Zabójcza chmura. W zwi¹zku z tym, ¿e Mistrzowie Aury rzucaj¹ czary nieprzeciêtnie szybciej, bezwglêdny czas rzucania w ich wypadku wynosi 3. Udane Usuniêcie magii mo¿e z powodzeniem rozproszyæ dzia³anie tego zaklêcia.~
+@4 = ~Wyzwolenie energii~
+@5 = ~Wyzwolenie energii
+Poziom: 6
+Zasiêg: 30 metrów
+Szko³a: Wywo³ywanie
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Ten potê¿ny czar wyzwala niesamowity ³adunek energii zadaj¹cej pojedynczemu celowi 10k8 magicznych obra¿eñ.~
+@6 = ~Oczyszczenie Aury~
+@7 = ~Oczyszczenie Aury
+Poziom: 7
+Zasiêg: nieograniczony
+Czas dzia³ania: 2 rundy
+Czas rzucania: 7
+Obszar dzia³ania: specjalny
+
+Oczyszczenie Aury powoduje usuniêcie przerwy pomiêdzy rzucaniem zaklêæ. Po rzuceniu tego czaru, druid mo¿e rozpocz¹æ rzucanie nowego zaklêcia natychmiast po zakoñczeniu rzucania czaru poprzedniego. Efekt trwa przez dwie rundy.~
+@8 = ~Powtórz instalacjê Tronu Bhaala i spróbuj ponownie.~
+@9 = ~Odpornoœæ na obra¿enia magiczne~
+@10 = ~Kontakt z Natur¹~
+@11 = ~Aura niewra¿liwoœci~
+@12 = ~Doskona³y kamufla¿~
+@13 = ~Doskona³y kamufla¿ (Odrzucanie)
+Poziom: 7
+Zasiêg: 0
+Czas dzia³ania: 20 rund
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Objêty tym czarem Mistrz Aury staje siê niewidzialny i niepodatny na wszystkie czary wykrywaj¹ce iluzjê przez ca³y czas dzia³ania zaklêcia. Jeœli w trakcie dzia³ania Doskona³ego kamufla¿u druid zaatakuje lub rzuci czar ofensywny stanie siê czêœciowo widoczny i samemu mo¿e staæ siê celem ataku przeciwnika, lecz ¿aden czar nie mo¿e zostaæ rzucony bezpoœrednio na niego. Zwróæ uwagê na to, i¿ czar ten nie czyni rzucaj¹cego odpornym na obszarowe zaklêcia jak Zabójcza chmura. W zwi¹zku z tym, ¿e Mistrzowie Aury rzucaj¹ czary nieprzeciêtnie szybciej, bezwglêdny czas rzucania w ich wypadku wynosi 3. Udane Usuniêcie magii mo¿e z powodzeniem rozproszyæ dzia³anie tego zaklêcia.~

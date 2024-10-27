@@ -1,0 +1,94 @@
+@0 = ~Maitre de l'Aura~
+@1 = ~MAITRE DE L'AURA~
+@2 = ~Maître de l'Aura~
+@3 = ~MAITRE DE L'AURA : Ces druides ont la capacité spéciale d'utiliser l'aura magique et les énergies naturelles environnante afin d'en tisser un charme et de le lancer plus rapidement et plus fréquemment que les lanceurs de sorts ordinaires. Ils disposent également de sorts supplémentaires par rapport aux autres druides. A bas niveau, ces sorts ne seront que des copies conformes de quelques sorts clericaux ou profanes, mais les druides de haut niveau auront tout un panel de nouveaux sorts à leur disposition.
+
+Avantages :
+
+- Bonus de +2 à la vitesse d'incantation
+- Immunité au sort Silence
+- Peut mémoriser un sort supplémentaire par niveau de sort
+- Accède aux sorts supplémentaires suivants :
+
+Niveau 1 : Mains Ardentes
+Niveau 2 : Invisibilité, Image Miroir
+Niveau 3 : Flèche Enflammée, Invisibilité sur 3 mètres
+Niveau 4 : Émotion, Bouclier de Feu (Rouge), Malédiction
+Niveau 5 : Protection contre l'Acide
+Niveau 6 : Chaîne d'Eclairs, Sort de Mort, Lâché d'Energie
+Niveau 7 : Purification d'Aura, Camouflage Parfait, Mot de Pouvoir : Étourdissement, Rayon Rubis d'Inversion
+
+- Au niveau 13, gagne 40% de résistance aux dégâts magiques.
+- Au niveau 15, gagne la capacité innée "Contact de la Nature" utilisable une fois par jour.
+
+Contact de la Nature : 
+ Le maître de l'Aura régénère 4 points de vie par round pendant un tour. 
+ 
+- Au niveau 22, gagne la capacité innée "Aura d'Invulnérabilité" utilisable une fois par jour.
+
+Aura d'Invulnérabilité :
+ Immunise contre les sorts du premier au quatrième niveau et accorde +6 à la Classe d'Armure et +40% de résistance aux dégâts physiques pendant 12 rounds.
+
+Inconvénients :
+
+- Ne peut porter aucune armure
+- Ne peut se métamorphoser
+- -4 en Force et en Constitution à la création.
+- Requiert 12 en Intelligence
+- Ne peut pas se multiclasser
+- Ne bénéficie pas de l'immunité au poison des druides (au niveau 15) et de la résistance partielle aux dégâts élémentaires (au niveau 18)
+
+Descriptions des nouveaux sorts :
+
+Lâché d'Energie (Évocation) :
+Niveau : 6
+Portée : champ de vision du lanceur
+Temps d'incantation : 6
+Zone d'effet : 1 cible
+Jet de sauvegarde : aucun
+Ce sort puissant relâche un large rayon d'énergie qui inflige 10d8 points de dégâts magiques à la cible.
+
+Purification d'Aura :
+Ce sort est identique au sort 'Enchaînement' du mage.
+
+Camouflage Parfait (Abjuration) :
+Niveau : 7
+Portée : Contact
+Durée : 20 rounds
+Temps d'incantation : 5
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Lancer ce puissant sort permet au Maître de l'Aura de se rendre invisible et d'être immunisé à tous les sorts de divination jusqu'au terme du sort. Néanmoins, si le druide attaque ou lance des sorts offensifs durant cette période, il deviendra partiellement visible et s'exposera ainsi à des attaques physiques, les sorts ne pouvant pas directement le cibler. Ce sort ne permet pas au lanceur d'être immunisé aux sorts de zone. Comme les Maîtres de l'Aura lancent les sorts plus rapidement que les autres lanceurs, le temps d'incantation effectif de ce sort est de 3. Un sort de 'Délivrance de la Magie' permet d'en dissiper les effets.~
+@4 = ~Lâché d'Energie~
+@5 = ~Lâché d'Energie (Evocation)
+Niveau : 6
+Portée : champ de vision du lanceur
+Temps d'incantation : 6
+Zone d'effet : 1 cible
+Jet de sauvegarde : aucun
+
+Ce sort puissant relâche un large rayon d'énergie qui inflige 10d8 points de dégâts magiques à la cible.~
+@6 = ~Purification d'Aura~
+@7 = ~Purification d'Aura
+Niveau : 7
+Portée : illimitée
+Durée : 2 rounds
+Temps d'incantation : 7
+Zone d'effet : spécial
+
+Purification d'Aura permet d'éliminer les intervalles de temps entre les incantations de sorts. Ainsi, un druide peut enchaîner l'incantation d'un nouveau sort dès que celle du précédent est finie. Cet effet dure 2 rounds.~
+@8 = ~Installez ToB et retentez l'install, s'il vous plait.~
+@9 = ~Résistance aux Dégâts Magiques~
+@10 = ~Contact de la Nature~
+@11 = ~Aura d'Invulnérabilité~
+@12 = ~Camouflage Parfait~
+@13 = ~Camouflage Parfait (Abjuration)
+Niveau : 7
+Portée : Contact
+Durée : 20 rounds
+Temps d'incantation : 5
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Lancer ce puissant sort permet au Maître de l'Aura de se rendre invisible et d'être immunisé à tous les sorts de divination jusqu'au terme du sort. Néanmoins, si le druide attaque ou lance des sorts offensifs durant cette période, il deviendra partiellement visible et s'exposera ainsi à des attaques physiques, les sorts ne pouvant pas directement le cibler. Ce sort ne permet pas au lanceur d'être immunisé aux sorts de zone. Comme les Maîtres de l'Aura lancent les sorts plus rapidement que les autres lanceurs, le temps d'incantation effectif de ce sort est de 3. Un sort de 'Délivrance de la Magie' permet d'en dissiper les effets.~

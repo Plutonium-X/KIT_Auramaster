@@ -1,0 +1,89 @@
+@0 = ~Kit Stráce aury~
+@1 = ~STRÁCE AURY~
+@2 = ~Stráce aury~
+@3 = ~STRÁCE AURY: Tento typ druidù má zvláštní schopnost vyuít magickou auru a energii, šíøící se a proudící pøírodou. To jim umoòuje splétat a sesílat kouzla rychleji a èastìji, ne normální sesílaèi. Také mohou sesílat kouzla jinım druidùm nepøístupná. Na niších úrovních jsou dodateèná kouzla totoná s nìkterımi kouzly mága, ale na vyšších úrovních mohou sesílat nìkolik úplnì novıch kouzel.
+
+Vıhody:
+
+1- +2 bonus k rychlosti sesílání
+2- mùe si zapamatovat jedno kouzlo v kadé úrovni navíc
+3- pøístup k následujícím kouzlùm:
+
+Dodateèné kouzlo první úrovnì: Hoøící ruce
+Dodateèná kouzla druhé úrovnì: Neviditelnost, Zrcadlovı obraz
+Dodateèná kouzla tøetí úrovnì: Ohnivı šíp, Neviditelnost, polomìr 3 m
+Dodateèná kouzla ètvrté úrovnì: Emoce, Ohnivı štít (Cervenı), Nepríjemnosti
+Dodateèná kouzla páté úrovnì: Ochrana pred kyselinou
+Dodateèná kouzla šesté úrovnì: Øetìzovı blesk, Kouzlo smrti, Ochrana pøed magickımi zbranìmi, Uvolnìní energie
+Dodateèná kouzla sedmé úrovnì: Èištìní aury, Mocné slovo: Omraè, Zpìtnı rubínovı paprsek, Odvrácení kouzla,
+
+4- Na 13. úrovni obdrí 40% odolnost na magické zranìní.
+5- Na 15. úrovni obdrí schopnost "Spojení s prírodou". Tato schopnost mue bıt pouita jednou denne. Regeneruje 24 ivotu za kolo po dobu 10 kol.
+6- Na 22. úrovni obdrí zvláštní schopnost, Aura nesmrtelnost, poskytující imunitu na kouzla 4 (a niší) úrovne a chová se jako energetickı štít, pohlcující 40% fyzického zranení spolu s bonusem +6 k obrannému císlu po dobu 12 kol. Tato schopnost mue bıt pouita jednou denne.
+
+Nevıhody:
+
+1- nemùe nosit brnìní
+2- nemùe se pøemìnit
+3- dostane penalizaci -4 k síle
+4- dostane penalizaci -4 k odolnosti
+5- vyaduje inteligenci 12
+6- nemùe mít dvojpovolání
+7- Nedostává benou druidskou imunitu na jed (na 15. úrovni) a cástecnou odolnost na zranení zpusobené elementy (na 18. úrovni).
+
+Popis novıch kouzel:
+
+Uvolnìní energie:
+Úroveò: 6
+Škola: Vyvolávání
+Doba sesílání: 6
+Oblast pùsobení: jeden cíl
+Dosah: 100
+Záchrannı hod: ádnı
+Toto mocné kouzlo uvolní vıraznou støelu energie, která zpùsobí jednomu cíli 10k8 magického zranìní.
+
+Èištìní aury:
+Je to samé, jako zvláštní schopnost vysoké úrovnì u mága - Vylepšená hbitost.
+
+Dokonalé maskování (Ochrana)
+Úroveò: 7
+Range: 0
+Trvání: 20 kol
+Doba sesílání: 5
+Oblast pùsobení: zvláštní
+Záchrannı hod: ádnı
+
+Seslání tohoto mocného kouzla uèiní Stráce aury po dobu trvání kouzla neviditelnım a imunním na všechna vìštící kouzla. Pokud druid útoèí nebo sesílá útoèné kouzlo v dobì trvání tohoto kouzla, stane se èásteènì viditelnı a je moné ho fyzicky napadnout, ale pøímo na nìj nemùe bıt sesláno ádné kouzlo. Pozor na to, e tímto kouzlem se sesílatel nestane imunní vùèi kouzlùm, které ovlivòují oblast namísto jediného cíle. Protoe Stráci aury sesílají kouzla rychleji ne ostatní, doba sesílání je 3.~
+@4 = ~Uvolnìní energie~
+@5 = ~Uvolnìní energie:
+Úroveò: 6
+Škola: Vyvolávání
+Doba sesílání: 6
+Oblast pùsobení: jeden cíl
+Dosah: 100
+Záchrannı hod: ádnı
+Toto mocné kouzlo uvolní vıraznou støelu energie, která zpùsobí jednomu cíli 10k8 magického zranìní.~
+@6 = ~Èištìní aury~
+@7 = ~Èištìní aury
+
+Úroveò: 7
+Dosah: neomezenı
+Doba trvání: 2 kola
+Doba sesílání: 7
+Oblast pùsobení: zvláštní
+
+Èištìní aury v podstatì vymae prodlevy mezi sesíláním kouzel. Mág mùe zaèít sesílání nového kouzla ihned, jak dokonèí sesílání kouzla souèasného. Úèinek trvá po 2 kola.~
+@8 = ~Nainstaluj prosím TOB a vra se k instalaci módu.~
+@9 = ~Odolnost na magické zranìní~
+@10 = ~Spojení s prírodou~
+@11 = ~Aura nezranitelnosti~
+@12 = ~Dokonalé maskování~
+@13 = ~Dokonalé maskování (Ochrana)
+Úroveò: 7
+Range: 0
+Trvání: 20 kol
+Doba sesílání: 5
+Oblast pùsobení: zvláštní
+Záchrannı hod: ádnı
+
+Seslání tohoto mocného kouzla uèiní Stráce aury po dobu trvání kouzla neviditelnım a imunním na všechna vìštící kouzla. Pokud druid útoèí nebo sesílá útoèné kouzlo v dobì trvání tohoto kouzla, stane se èásteènì viditelnı a je moné ho fyzicky napadnout, ale pøímo na nìj nemùe bıt sesláno ádné kouzlo. Pozor na to, e tímto kouzlem se sesílatel nestane imunní vùèi kouzlùm, které ovlivòují oblast namísto jediného cíle. Protoe Stráci aury sesílají kouzla rychleji ne ostatní, doba sesílání je 3.~
