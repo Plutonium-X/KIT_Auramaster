@@ -29,4 +29,4 @@
 -Note :
 - Sort Lâché d'Energie = 10D8 à une cible sans jds
 - Sort Purification d'Aura = Enchainement
-- Sort Camouflage Parfait = invisbilité majeure + Immunité contre la divination.
+- Sort Camouflage Parfait = invisibilité majeure + Immunité contre la divination.
