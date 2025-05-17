@@ -21,7 +21,7 @@
 - Pas d'armure
 - Pas de métamorphose
 - pas d'immunité au poison
-- pas derésistance partielle aux dégâts élémentaires
+- pas de résistance aux dégâts élémentaires
 - -4 en Force et en Constitution.
 - Requiert 12 en Intelligence
 - Pas de jumelage
