@@ -38,32 +38,31 @@
 Aura Master Kit (Druid)
 
 -Advantages:  
-   +2 to casting speed  
-   Immunity to the Silence spell 
-   One additional spell per spell level  
-   Gains access to the following additional spells:  
-       Level 1: Burning Hands  
-       Level 2: Invisibility, Mirror Image  
-       Level 3: Fire Arrow, Invisibility within 3 meters  
-       Level 4: Emotion, Fire Shield (Red),Greater,  malsion  
-       Level 5: Protection from Acid  
-       Level 6: Chain Lightning, Death Spell, Energy Release  
-       Level 7: Aura Purification, Perfect Camouflage, Word of Power: Stun, Ruby Ray of Reversal.  
-   At Level 13, +40% resistance to magical damage.  
-   At Level 15, “Contact with Nature” ability once per day (regenerates 4 hit points per round for one turn).  
-   At level 22, “Aura of Invulnerability” ability once per day (grants immunity to 1st- through 4th-level spells and grants +6 to Armor Class and +40% resistance to physical damage for 12 rounds).  
+- +2 to casting speed  
+- Immunity to the Silence spell 
+- One additional spell per spell level  
+- Gains access to the following additional spells:  
+  * Level 1: Burning Hands  
+  * Level 2: Invisibility, Mirror Image  
+  * Level 3: Fire Arrow, Invisibility within 3 meters  
+  * Level 4: Emotion, Fire Shield (Red),Greater,  malsion  
+  * Level 5: Protection from Acid  
+  * Level 6: Chain Lightning, Death Spell, Energy Release  
+  * Level 7: Aura Purification, Perfect Camouflage, Word of Power: Stun, Ruby Ray of Reversal.  
+- At Level 13, +40% resistance to magical damage.  
+- At Level 15, “Contact with Nature” ability once per day (regenerates 4 hit points per round for one turn).  
+- At level 22, “Aura of Invulnerability” ability once per day (grants immunity to 1st- through 4th-level spells and grants +6 to Armor Class and +40% resistance to physical damage for 12 rounds).  
 
 -Disadvantages:  
-   No armor  
-   No metamorphosis  
-   No immunity to poison  
-   No resistance to elemental damage  
-   -4 to Strength and Constitution.  
-   Requires 12 Intelligence  
-   No pairing  
+- No armor  
+- No metamorphosis  
+- No immunity to poison  
+- No resistance to elemental damage  
+- -4 to Strength and Constitution.  
+- Requires 12 Intelligence  
+- No pairing  
 
 -Note:  
-
-   “Energy Release” spell = 10D8 damage to a target without a saving throw
-   “Aura Purification” spell = Iproved Alacrity
-   “Perfect Camouflage” spell =Improved Invisibility + Immunity to divination.
+- “Energy Release” spell = 10D8 damage to a target without a saving throw
+- “Aura Purification” spell = Iproved Alacrity
+- “Perfect Camouflage” spell =Improved Invisibility + Immunity to divination.
