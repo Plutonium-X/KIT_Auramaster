@@ -1,6 +1,6 @@
 # Kit de Maître de l'Aura (Druide)
 
--Avantages :
+Avantages :
 - +2 à la vitesse d'incantation
 - Immunité au sort Silence
 - un sort supplémentaire par niveau de sort
@@ -16,7 +16,7 @@
 - Au niveau 15, capacité "Contact de la Nature" une fois par jour (régénèration de 4 points de vie par round pendant un tour).
 - Au niveau 22, capacité "Aura d'Invulnérabilité" une fois par jour (immunise contre les sorts du premier au quatrième niveau et accorde +6 à la Classe d'Armure et +40% de résistance aux dégâts physiques pendant 12 rounds.
 
--Inconvénients :
+Inconvénients :
 
 - Pas d'armure
 - Pas de métamorphose
@@ -26,7 +26,7 @@
 - Requiert 12 en Intelligence
 - Pas de jumelage
 
--Note :
+Note :
 - Sort Lâché d'Energie = 10D8 à une cible sans jds
 - Sort Purification d'Aura = Enchainement
 - Sort Camouflage Parfait = invisibilité majeure + Immunité contre la divination.
@@ -37,7 +37,7 @@
 
 Aura Master Kit (Druid)
 
--Advantages:  
+Advantages:  
 - +2 to casting speed  
 - Immunity to the Silence spell 
 - One additional spell per spell level  
@@ -53,7 +53,7 @@ Aura Master Kit (Druid)
 - At Level 15, “Contact with Nature” ability once per day (regenerates 4 hit points per round for one turn).  
 - At level 22, “Aura of Invulnerability” ability once per day (grants immunity to 1st- through 4th-level spells and grants +6 to Armor Class and +40% resistance to physical damage for 12 rounds).  
 
--Disadvantages:  
+Disadvantages:  
 - No armor  
 - No metamorphosis  
 - No immunity to poison  
@@ -62,7 +62,7 @@ Aura Master Kit (Druid)
 - Requires 12 Intelligence  
 - No pairing  
 
--Note:  
+Note:  
 - “Energy Release” spell = 10D8 damage to a target without a saving throw
 - “Aura Purification” spell = Iproved Alacrity
 - “Perfect Camouflage” spell =Improved Invisibility + Immunity to divination.
